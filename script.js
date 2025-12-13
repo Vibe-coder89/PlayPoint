@@ -1,5 +1,5 @@
 
-// ------- DARK MODE TOGGLE -------
+
 const themeToggle = document.getElementById("themeToggle");
 const body = document.body;
 
@@ -21,7 +21,6 @@ themeToggle.addEventListener("click", () => {
 });
 
 
-// ------- GAME SEARCH -------
 const searchInput = document.getElementById("searchInput");
 const gameCards = document.querySelectorAll(".g");
 const noResult = document.getElementById("noResult");
