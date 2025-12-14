@@ -47,7 +47,7 @@ PlayPoint/
 │-- index.html
 │-- style.css
 │-- script.js
-│-- assets/
+
 ```
 
 ---
